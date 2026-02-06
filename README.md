@@ -22,11 +22,11 @@ I’ve also recently joined Purdue’s undergraduate jet propulsion organization
 
 
 
-#### Technical skills
+#### ⚙️ Technical skills
 **Languages:** Python · Java · R · SQL · C
-**Data:** Pandas · NumPy · BeautifulSoup · Selenium · Power BI
+**Data:** Pandas · NumPy · BeautifulSoup · Selenium 
 **Web:** HTML · CSS  
-**Tools:** Git · MySQL · Linux  
+**Tools:** Git · MySQL · Power BI   
 
 #### 🌱 Interests
 
