@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Ana
 
-I’m a Data Science sophomore at Purdue University, currently pursuing the addition of an Industrial Engineering degree to my plan of study.
+I’m a Data Science sophomore at Purdue University, currently pursuing the addition of an Industrial Engineering degree to my plan of study.  
 
 
 #### 💼 What I Do
 
 I work as a Data Analytics Assistant in Purdue’s External Data Analytics Department, where I:
 
-Build and maintain automated data collection pipelines
+- Build and maintain automated data collection pipelines
 
 - Validate, clean, and analyze large, messy datasets
 
@@ -18,15 +18,15 @@ I’ve also recently joined the Purdue undergraduate rocket propulsion lab ([PUR
 
 - Designing data transfer systems between test-bed sensors and control systems
 
-- Reducing latency (lagginess) and minimizing data corruption in experimental setups
+- Reducing latency (lagginess) and minimizing data corruption in experimental setups  
 
 
 
 #### ⚙️ Technical skills
-Languages: Python · Java · R · SQL · C
-Data: Pandas · NumPy · BeautifulSoup · Selenium 
-Web: HTML · CSS  
-Tools: Git · MySQL · Power BI   
+Languages: Python · Java · R · SQL · C   
+Data: Pandas · NumPy · BeautifulSoup · Selenium   
+Web: HTML · CSS     
+Tools: Git · MySQL · Power BI       
 
 #### 🌱 Interests
 
