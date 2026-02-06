@@ -34,7 +34,5 @@ Outside of school and work, I enjoy art/design/web development, cooking, and spe
 
 Fun facts about me: 
 - I speak 3 languages 
-- When I was little, I wanted to be a farmer so I could take care of lots of animals. I also wanted to be an artist. ana farmus the farmer artist
 - The best advice I ever got is from my mom: that success is like a bird's flight- not a permanent state, but composed of constant adjusment
 - One habit I am proud of is reading before bed every night
-- One habit I'd like to let go of is buying too many new sauces and not finishing them
