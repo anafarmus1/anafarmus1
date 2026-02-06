@@ -14,11 +14,11 @@ Build and maintain automated data collection pipelines
 - Develop internal analytics tools to reduce manual effort and improve reliability and accuracy
 
 
-I’ve also recently joined Purdue’s undergraduate jet propulsion organization (PURPL), where I focus on:
+I’ve also recently joined the Purdue undergraduate rocket propulsion lab ([PURPL](https://purpl.space/)), where I focus on:
 
 - Designing data transfer systems between test-bed sensors and control systems
 
-- Reducing latency and minimizing data corruption in experimental setups
+- Reducing latency (lagginess) and minimizing data corruption in experimental setups
 
 
 
