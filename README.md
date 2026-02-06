@@ -30,7 +30,7 @@ Tools: Git · MySQL · Power BI
 
 #### 🌱 Interests
 
-Outside of school and work, I enjoy art/design/web development, reading, cooking, and spending time with my family and friends!
+Outside of school and work, I enjoy art/design/web development, cooking, and spending time with my family!
 
 Fun facts about me: 
 - I speak 3 languages 
