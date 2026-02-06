@@ -23,10 +23,10 @@ I’ve also recently joined the Purdue undergraduate rocket propulsion lab ([PUR
 
 
 #### ⚙️ Technical skills
-**Languages:** Python · Java · R · SQL · C
-**Data:** Pandas · NumPy · BeautifulSoup · Selenium 
-**Web:** HTML · CSS  
-**Tools:** Git · MySQL · Power BI   
+Languages: Python · Java · R · SQL · C
+Data: Pandas · NumPy · BeautifulSoup · Selenium 
+Web: HTML · CSS  
+Tools: Git · MySQL · Power BI   
 
 #### 🌱 Interests
 
