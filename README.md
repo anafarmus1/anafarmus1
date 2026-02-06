@@ -5,7 +5,7 @@ I’m a Data Science sophomore at Purdue University, currently pursuing the addi
 
 #### 💼 What I Do
 
-I work as a Data Analytics Assistant in Purdue’s External Analytics Department, where I:
+I work as a Data Analytics Assistant in Purdue’s External Data Analytics Department, where I:
 
 Build and maintain automated data collection pipelines
 
